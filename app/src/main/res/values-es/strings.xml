@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="true">Tutoriales de Brawl Stars</string>
+    <string name="open" translatable="true">Abrir</string>
+    <string name="close" translatable="true">Cerrar</string>
+    <string  name="share_app" translatable="true">Compartir la aplicación</string>
+    <string  name="rate_app" translatable="true">Califica la aplicación</string>
+    <string  name="about" translatable="true">Acerca de</string>
+    <string name="privacy_policy" translatable="true">Política de privacidad</string>
+    <string  name="exit" translatable="true">Salir</string>
+    <string  name="More_Apps" translatable="true">Más aplicaciones</string>
+    <string name="rewarded_dialog_title" translatable="true">monedas insuficientes</string>
+    <string name="rewarded_dialog_msg" translatable="true">mira un anuncio para ser recompensado con monedas y abre esta página</string>
+    <string name="exit_dialog_title" translatable="true">Confirmar salida</string>
+    <string name="exit_dialog_msg" translatable="true">¿está seguro de que desea salir de la aplicación?</string>
+    <string name="share_dialog_msg" translatable="true">instala esta increíble aplicación</string>
+    <string name="share_dialog_title" translatable="true">Compartir…</string>
+    <string name="reward_earned_msg" translatable="true">las monedas se agregarán en breve y podrá abrir la página</string>
+    <string name="review_fail" translatable="true">Evaluación fallida</string>
+    <string name="review_succeed" translatable="true">Calificación completa</string>
+    <string  name="yes" translatable="true">sí</string>
+    <string  name="no" translatable="true">no</string>
+    <string name="cancel_exit" translatable="true">salida cancelada</string>
+    <string name="earned_reward_msg" translatable="true">¡guau! monedas añadidas</string>
+    <string name="refuse_to_watch_rewarded" translatable="true">no puede iniciar sesión</string>
+    <string name="lets_play" translatable="true">Vamos a jugar</string>
+    <string name="buttonnavigationbtntxt1" translatable="true">Explorar</string>
+    <string name="buttonnavigationbtntxt2" translatable="true">Cuestionario</string>
+    <string name="buttonnavigationbtntxt3" translatable="true">Configuración</string>
+    <string name="times_up" translatable="true">¡Se acabó el tiempo!</string>
+    <string  name="back" translatable="true">atrás</string>
+    <string  name="Level1" translatable="true">Nivel 1</string>
+    <string  name="Level2" translatable="true">Nivel 2</string>
+    <string  name="Level3" translatable="true">Nivel 3</string>
+    <string  name="Level4" translatable="true">Nivel 4</string>
+    <string  name="Level5" translatable="true">Nivel 5</string>
+    <string  name="Level6" translatable="true">Nivel 6</string>
+    <string  name="Level7" translatable="true">Nivel 7</string>
+    <string  name="Level8" translatable="true">Nivel 8</string>
+    <string  name="TotalQ" translatable="true">Total de preguntas: </string>
+    <string  name="PlayAgain" translatable="true">Reproducir de nuevo</string>
+    <string  name="ruby" translatable="true">Rubí: </string>
+    <string  name="Correct" translatable="true">Correcto: </string>
+    <string  name="Wrong" translatable="true">Incorrecto: </string>
+    <string  name="PlayNextLevel" translatable="true">Jugar siguiente nivel</string>
+    <string  name="PlayScreen" translatable="true">Pantalla de reproducción</string>
+
+
+    <string name="guides" translatable="true">guías</string>
+    <string name="a1" translatable="true">Batalla Real</string>
+    <string name="a2" translatable="true">BROCK</string>
+    <string name="a3" translatable="true">DINAMIKE</string>
+    <string name="a4" translatable="true">PAM</string>
+    <string name="a5" translatable="true">FRANK</string>
+    <string name="a6" translatable="true">UN LEGENDARIO</string>
+    <string name="a7" translatable="true">Comunes de Brawlers</string>
+    <string name="a8" translatable="true">modo principal</string>
+    <string name="a9" translatable="true">POLLY</string>
+    <string name="a10" translatable="true">BROCK</string>
+    <string name="a11" translatable="true">PENIQUE</string>
+    <string name="a12" translatable="true">DINAMIKE</string>
+    <string name="a13" translatable="true">BO</string>
+    <string name="a14" translatable="true">Razzia de gemas</string>
+    <string name="a15" translatable="true">PENIQUE</string>
+    <string name="a16" translatable="true">NITA</string>
+    <string name="a17" translatable="true">PAM</string>
+    <string name="a18" translatable="true">BARTABA</string>
+    <string name="a19" translatable="true">TARA</string>
+    <string name="a20" translatable="true">conclusión</string>
+
+
+    <string name="link1" translatable="true">Si quieres jugar Brawl Stars solo, solo tienes una opción: ¡el modo Superviviente! Si juegas en dúo, la elección del brawler es bastante libre. Pero en Solo Survivor hay héroes que son significativamente mejores que los demás. ¡Conocerlos te ayudará mucho a ganar, así que sigue la guía y el top 1 de Brawl Stars es tuyo!</string>
+    <string name="link2" translatable="true">Es sin duda el mejor ya que el mapa no tiene demasiadas paredes. Con algunos impulsos, sus cohetes hieren muy rápido y su súper puede matar a varios enemigos al mismo tiempo cuando el mapa se hace más pequeño. Puede mantener a raya a sus oponentes, aplastar todo el mundo e incluso defenderse de cerca. Si se usa tanto a alto nivel, no es por nada. Colt recibió recientemente un beneficio y se ha convertido en una gran alternativa a Brock. Algunos dicen que incluso podría ser mejor que Brock. ¡Pero depende principalmente de cómo juegues!</string>
+    <string name="link3" translatable="true">A diferencia de Brock, Dynamike brilla cuando hay paredes. Puede impulsarse rápidamente para destruir dos o incluso tres cajas al mismo tiempo. Hace un gran daño permaneciendo oculto, por lo que su gestión de riesgos es muy buena. Como sobreviviente, eso es lo que estamos buscando. Si quieres jugar en equipo, tiene que ser con otro Dynamike o un Bartaba. el cuerpo a cuerpo es tu peor enemigo, así que huye de todos los demás luchadores que comenzarán a girar a tu alrededor. Lo has adivinado, la mejor alternativa a Dynamike es Bartaba, tienen más o menos las mismas especificidades, de nuevo, ¡la elección es tuya!</string>
+    <string name="link4" translatable="true">En este momento, Pam está bajo control. Se supone que debe ser un apoyo, por lo tanto, una aliada de elección en los modos 3v3, pero también lo hace muy bien en el modo Superviviente. Con Pam, ¡no te escondas demasiado! Recupere su trourelle rápidamente molestando a no todos, así que cálmese. Desalojar a Pam es muy difícil en el modo Asalto. Gemas, es igual de importante en el modo Superviviente. ¡Poco, el otro curandero también puede ser viable! Golpea un área amplia, por lo que tiene el control y, gracias a su cuidado, se vuelve muy doloroso de matar. Imagina a estos dos en modo Duo Survivor: indestructibles.</string>
+    <string name="link5" translatable="true">Frank es un fanático del poder. En niveles bajos de trofeos, la gente suele preferir El a Costo, que es mucho más fácil de jugar. Es un error, El Costo no es muy efectivo en modo sobreviviente. Frank lo supera con creces. Y si sigues la lógica que hemos puesto en marcha hasta ahora, entiendes por qué: ataca en zona. Súmale a eso un superfácil de obtener y que convierte a cualquier adversario en el enemigo público número 1 para todo el mapa y tienes el mejor tanque en modo Superviviente. Bull también puede ser viable, pero la forma de jugar en Bull es muy diferente. Como solo se las arregla en combate cuerpo a cuerpo, debes permanecer oculto y preparar emboscadas. ¡Es menos divertido pero funciona!</string>
+    <string name="link6" translatable="true">Los tres legendarios están reunidos aquí porque somos muy conscientes de la dificultad de conseguir uno. Recuerda que cada uno de los tres legendarios es viable en modo superviviente. Más aún, todos son excelentes y en todas las tarjetas. Los tres Legendarios son los mejores personajes del juego para la gestión de riesgos. Y gestiona el riesgo, eso es el modo de sobreviviente.</string>
+    <string name="link7" translatable="true">En Brawl Stars, Supercell ha puesto la elección de su luchador en el centro de la jugabilidad de su juego de acción multijugador. ¿Quiénes son los mejores brawlers obtenidos por nivel de trofeo? ¡Decídete con esta guía!</string>
+    <string name="link8" translatable="true">En Brawl Stars, Prime Mode es donde la elección del personaje es más importante que cualquier otra cosa. Si un personaje de un equipo no es "meta", el equipo perderá. Cada carta tiene su tipo de composición pero aún existen brawlers que casi siempre están presentes en las partidas de alto nivel. Los hemos recopilado aquí para usted.</string>
+    <string name="link9" translatable="true">Polly the Sniper lucha por encontrar su lugar en los otros modos de juego. Pero lo compensa muy bien gracias al modo Prime. Es la cabeza para disparar, enemigo público número 1. Usa tu ideal para destruir los muros detrás de los cuales se esconden tus enemigos o para huir si el brawler salta sobre ti. El resto del tiempo, mantén la distancia en un pasillo y dispara a voluntad. Un consejo: con Polly, anticípate bien a los movimientos de tu oponente y nunca uses el autoataque.</string>
+    <string name="link10" translatable="true">Brock es Polly pero con un daño más consistente y un súper que atrapa a los oponentes. No tiene mucho que envidiarle a su amiga rubia, excepto su daño a muy larga distancia. El método es exactamente el mismo que con Polly. Si decidimos no presentar a Brock como alternativa a Polly, es porque es mejor tener a ambos en tu tripulación. Si Brock y Polly golpean el mismo objetivo y ambas bolas aterrizan, felicidades, mataste a alguien. Dicho esto, Brock puede ser reemplazado por Colt, quien se ha vuelto muy poderoso desde su reciente mejora.</string>
+    <string name="link11" translatable="true">El mortero de Penny es un true suplicio para sus oponentes. Los obliga a realizar movimientos constantes, exponiéndose así. Y ahí, Penny y sus compañeros tienen campo libre para cometer una masacre. Agregue a eso su alcance bastante largo y más daño correcto y Penny se convierte rápidamente en un elemento esencial en casi todos los mapas en modo Premium.</string>
+    <string name="link12" translatable="true">Dynamike puede causar mucho daño con un riesgo mínimo. En el modo Prime, es más importante no morir que matar. Los juegos de alto nivel suelen acabar con puntuaciones muy bajas y no por nada. El mayor inconveniente de Dynamike es el cuerpo a cuerpo. Y hay muy pocos de ellos en el modo principal, por lo que puede actuar con bastante discreción. Tenga en cuenta que Dynamike o su amigo Bartaba pueden desempeñar el papel de Mortero de Penny desalojando a los enemigos ocultos para que aparezcan.</string>
+    <string name="link13" translatable="true">Bo también está luchando por encontrar su lugar en la lista de Brawl Stars. Que sea a la moda Raid of Gems, en Modo Sobreviviente o Modo Prime, solo es realmente viable con su poder estelar. Dicho esto, una vez que lo consigue, se vuelve extremadamente útil. Gracias a la visión de águila de Bo, todo el equipo tiene una gran ventaja. Bo es duro y hace un daño decente. Finalmente, sus trampas te permiten derribar paredes, cerrar un pasillo o atrapar a un oponente. ¡No lo subestimes!</string>
+    <string name="link14" translatable="true">Brawl Stars, la nueva bomba de Supercell (Clash Royale, Clash of Clans…) es el primer juego de la firma finlandesa donde el jugador tiene control total sobre su personaje. En general, en este género de juego, siempre hay algunos personajes que son más fuertes que otros. Aquí no es realmente el caso. Todo depende del mapa y especialmente del modo de juego, pero en el nivel más alto todavía hay algunos luchadores destacados. Aquí está la lista de niveles del modo Gem Raid de Brawl Stars basada en las elecciones de los mejores jugadores de Francia:</string>
+    <string name="link15" translatable="true">Su mortero puede disparar sobre paredes a una distancia impresionante. penny reloadfast, hace mucho daño… en resumen, en el modo gem raid, siempre es una buena opción. Ella controla fácilmente el centro del mapa, su función principal será quedarse allí y recolectar las gemas para su equipo. Si aún no has desbloqueado el Super Rare Penny, Jessie es una gran alternativa.</string>
+    <string name="link16" translatable="true">Nita golpea duro y ancho. Su oso ejerce una presión loca y le permite atacar en un instante para mantenerse a salvo detrás de él o bloquear a un oponente que intenta escapar. El papel de Nita es atacar a sus enemigos, empujarlos hacia atrás o incluso matarlos (y sobre todo no recoger las gemas). Nita es la mejor alternativa a Spike, el cactus legendario.</string>
+    <string name="link17" translatable="true">Consulté a varios de los mejores jugadores para hacer esta lista y un nombre estaba en todos los labios: Pam. Al igual que Penny, su función es mantener el control del centro del mapa y recolectar gemas. Gracias a sus habilidades curativas, Pam es muy difícil de matar y fácilmente puede brindar apoyo a sus compañeros de equipo en los costados. Y además, sabe defender. Una muy buena alternativa a la épica de Pam es Poco.</string>
+    <string name="link18" translatable="true">El súper de Bartaba es uno de los mejores del juego. Se puede usar para derretir a un oponente o repeler a todo un equipo. Bartaba te ofrece mucho control, y puede hacerlo mientras se mantiene protegido detrás de una pared. Es un apoyo, tiene la función de evitar que las cosas vayan en círculos. Por ejemplo, Bartaba es la mejor opción para destruir las torretas de Penny, Pam y Jessie. La alternativa más obvia a Bartaba es Dynamic, ya que es el único brawler capaz de atacar por encima de una pared. Pero también está Brock que cumple a la perfección este segundo papel gracias a su gran parecido con el de nuestro bartender favorito.</string>
+    <string name="link19" translatable="true">Ella es la quinta en este ranking porque es muy difícil de conseguir y tan especial que es insustituible. Tara solo puede derribar una partida de Gem Raid. Un súper bien puesto y es el final de todo un equipo. El mejor brawler agresivo simplemente en una incursión de gemas. También se puede utilizar como soporte y combinar su gran con los ataques de sus compañeros de equipo, por ejemplo.</string>
+    <string name="link20" translatable="true">Esta lista siempre será más o menos viable ya que estos brawlers fueron creados para desempeñar los roles descritos anteriormente. Desde el comienzo del juego, siempre se han considerado viables o incluso en el tercio superior. Pero ojo, Brawl Stars es un juego que se actualiza periódicamente. También tenga en cuenta que esta lista es, por supuesto, subjetiva, pero se hizo en consulta con todo el mejor club de Francia. ¡Combine esta lista de niveles con nuestro artículo 3 consejos para ganar más a menudo en Razzia modeGems y su número de trofeos se disparará!</string>
+    <string name="linkpp" translatable="true">para ver la política de privacidad, consulte nuestro sitio web https://devioapps.blogspot.com/</string>
+
+
+
+
+
+
+
+</resources>

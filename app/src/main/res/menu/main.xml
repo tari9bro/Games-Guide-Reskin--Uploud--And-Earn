@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@id/Explore"
+        android:icon="@drawable/explore"
+        android:title="@string/buttonnavigationbtntxt1" />
+
+    <item
+        android:id="@id/Quiz"
+        android:icon="@drawable/ic_quize"
+        android:title="@string/buttonnavigationbtntxt2" />
+
+    <item
+        android:id="@id/Settings"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/buttonnavigationbtntxt3" />
+
+
+</menu>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name" translatable="true">Brawl Stars eğiticileri</string>
+    <string name="open" translatable="true">Aç</string>
+    <string name="close" translatable="true">Kapat</string>
+    <string name="share_app" translatable="true">Uygulamayı Paylaşın</string>
+    <string name="rate_app" translatable="true">Uygulamayı Derecelendir</string>
+    <string name="about" translatable="true">Hakkında</string>
+    <string name="privacy_policy" translatable="true">Gizlilik Politikası</string>
+    <string name="exit" translatable="true">Çıkış</string>
+    <string name="More_Apps" translatable="true">Daha Fazla Uygulama</string>
+    <string name="rewarded_dialog_title" translatable="true">yetersiz para </string>
+    <string name="rewarded_dialog_msg" translatable="true">Jeton ile ödüllendirilmek için bir reklam izleyin ve bu sayfayı açın</string>
+    <string name="exit_dialog_title" translatable="true">Çıkış Onayı</string>
+    <string name="exit_dialog_msg" translatable="true">Uygulamadan çıkmak istediğinizden emin misiniz</string>
+    <string name="share_dialog_msg" translatable="true">bu harika uygulamayı yükleyin</string>
+    <string name="share_dialog_title" translatable="true">Paylaş…</string>
+    <string name="reward_earned_msg" translatable="true">paralar kısa süre içinde eklenecek ve sayfayı açabilirsiniz</string>
+    <string name="review_fail" translatable="true">Derecelendirme başarısız oldu</string>
+    <string name="review_succeed" translatable="true">Derecelendirme tamamlandı</string>
+    <string name="yes" translatable="true">evet</string>
+    <string name="no" translatable="true">hayır</string>
+    <string name="cancel_exit" translatable="true">çıkış iptal edildi</string>
+    <string name="earned_reward_msg" translatable="true">vay!! paralar eklendi</string>
+    <string name="refuse_to_watch_rewarded" translatable="true">oturum açamazsınız</string>
+    <string name="lets_play" translatable="true">Oyun Oynayalım</string>
+    <string name="buttonnavigationbtntxt1" translatable="true">Keşfet</string>
+    <string name="buttonnavigationbtntxt2" translatable="true">Sınav</string>
+    <string name="buttonnavigationbtntxt3" translatable="true">Ayarlar</string>
+    <string name="times_up" translatable="true">Zaman Doldu!</string>
+    <string name="back" translatable="true">geri</string>
+    <string name="Level1" translatable="true">Seviye 1</string>
+    <string name="Level2" translatable="true">Seviye 2</string>
+    <string name="Level3" translatable="true">Seviye 3</string>
+    <string name="Level4" translatable="true">Seviye 4</string>
+    <string name="Level5" translatable="true">Seviye 5</string>
+    <string name="Level6" translatable="true">Seviye 6</string>
+    <string name="Level7" translatable="true">Seviye 7</string>
+    <string name="Level8" translatable="true">Seviye 8</string>
+    <string name="TotalQ" translatable="true">Toplam Sorular : </string>
+    <string name="PlayAgain" translatable="true">Yeniden Oynat</string>
+    <string name="ruby" translatable="true">Yakut : </string>
+    <string name="Correct" translatable="true">Doğru : </string>
+    <string name="Wrong" translatable="true">Yanlış : </string>
+    <string name="PlayNextLevel" translatable="true">Bir Sonraki Seviyeyi Oynat</string>
+    <string name="PlayScreen" translatable="true">Oynatma Ekranı</string>
+
+
+    <string name="guides" translatable="true">kılavuzlar</string>
+    <string name="a1" translatable="true">Battle Royale</string>
+    <string name="a2" translatable="true">BROCK</string>
+    <string name="a3" translatable="true">DYNAMIKE</string>
+    <string name="a4" translatable="true">PAM</string>
+    <string name="a5" translatable="true">FRANK</string>
+    <string name="a6" translatable="true">EFSANEVİ BİR</string>
+    <string name="a7" translatable="true">Brawlers İletişimleri</string>
+    <string name="a8" translatable="true">Prime modu</string>
+    <string name="a9" translatable="true">POLLY</string>
+    <string name="a10" translatable="true">BROCK</string>
+    <string name="a11" translatable="true">PENNY</string>
+    <string name="a12" translatable="true">DYNAMIKE</string>
+    <string name="a13" translatable="true">BO</string>
+    <string name="a14" translatable="true">Razzia de Gemmes</string>
+    <string name="a15" translatable="true">PENNY</string>
+    <string name="a16" translatable="true">NITA</string>
+    <string name="a17" translatable="true">PAM</string>
+    <string name="a18" translatable="true">BARTABA</string>
+    <string name="a19" translatable="true">TARA</string>
+    <string name="a20" translatable="true">sonuç</string>
+
+
+
+    <string name="link1" translatable="true">Eğer Brawl Stars ı tek başınıza oynamak istiyorsanız, tek seçeneğiniz var, Survivor Modu! İkili olarak oynuyorsanız, kavgacı seçimi oldukça ücretsizdir. Ancak Solo Survivor da diğerlerinden çok daha iyi olan kahramanlar var. Bunları bilmek kazanmanıza büyük ölçüde yardımcı olacaktır, bu yüzden kılavuzu takip edin ve Brawl Stars ın ilk 1 i sizin olsun!</string>
+    <string name="link2" translatable="true">Haritada çok fazla duvar olmadığında, tartışmasız en iyisidir. Bazı güçlendirmelerle roketleri çok hızlı incinir ve süper gücü harita küçüldüğünde aynı anda birden fazla düşmanı öldürebilir. Rakiplerini uzak tutabilir, dünyadaki her şeyi parçalayabilir ve hatta kendilerini yakından savunabilir. Bu kadar üst düzeyde kullanılıyorsa boşuna değil. Colt kısa süre önce bir güçlendirme aldı ve Brock a harika bir alternatif oldu. Bazıları onun Brock tan bile daha iyi olabileceğini söylüyor. Ancak bu çoğunlukla nasıl oynadığınıza bağlıdır!</string>
+    <string name="link3" translatable="true">Brock un aksine, Dynamike duvarlar olduğunda parlar. Aynı anda iki hatta üç kasayı yok etmede hızla artabilir. Gizli kalırken büyük zarar verir, bu nedenle risk yönetimi çok iyidir. Bir kurtulan olarak, aradığımız şey bu. Takım olarak oynamak istiyorsanız başka bir Dynamike veya Bartaba ile oynamak zorundasınız. Yakın dövüş en büyük düşmanınızdır, bu yüzden etrafınızda dönmeye başlayacak diğer tüm kavgacılardan kaçın. Tahmin ettiniz, Dynamike a en iyi alternatif Bartaba, aşağı yukarı aynı özelliklere sahipler, yine seçim sizin!</string>
+    <string name="link4" translatable="true">Şu anda Pam kontrol altında. 3v3 modlarında tercih edilen bir müttefik olması için bir destek olması gerekiyordu, ancak Survivor modunda da çok iyi iş çıkarıyor. Pam ile çok fazla saklanmayın! Herkesi rahatsız edecek şekilde trourelle inizi çabucak geri alın, o yüzden yerleşin. Raid modunda bir Pam i yerinden çıkarmak çok zordur. Mücevherler, Survivor modunda olduğu kadar. Poco, diğer şifacı da yaşayabilir! Geniş bir alana vuruyor, bu yüzden kontrolü elinde tutuyor ve bakımı sayesinde öldürmesi çok acı verici hale geliyor. Bu ikisini Duo Survivor modunda hayal edin: yıkılmaz.</string>
+    <string name="link5" translatable="true">Frank bir güç manyağıdır. Düşük kupa seviyelerinde, insanlar genellikle El i ona, oynaması çok daha kolay olan Costo ya tercih eder. Bu bir hata, El Costo Survivor modunda pek etkili değil. Frank onu çok aşıyor. Ve şimdiye kadar ortaya koyduğumuz mantığı takip ederseniz, nedenini anlarsınız: alana saldırır. Buna, elde edilmesi çok kolay olan ve herhangi bir düşmanı tüm harita için 1 numaralı halk düşmanına dönüştüren süper bir aracı ekleyin ve Survivor modunda en iyi tanka sahip olursunuz. Bull da uygulanabilir olabilir, ancak Bull da oynamanın yolu çok farklı. Sadece yakın dövüşte başarılı olduğu için gizli kalmalı ve pusu kurmalısınız. Daha az eğlenceli ama işe yarıyor!</string>
+
+    
+    <string name="link6" translatable="true">Üç efsanenin hepsi burada toplandı çünkü bir tane elde etmenin bile zor olduğunu biliyoruz. Üç efsanenin her birinin hayatta kalma modunda geçerli olduğunu unutmayın. Dahası, hepsi mükemmel ve tüm kartlarda. Üç Efsanevi, risk yönetimi için oyundaki en iyi karakterlerdir. Ve hayatta kalma modu olan riski yönetin.</string>
+    <string name="link7" translatable="true">Brawl Stars da Supercell, kavgacı seçimini çok oyunculu oyun aksiyonunun merkezine koydu. Kupa seviyesine göre elde edilen en iyi dövüşçüler kimler? Bu kılavuzla kendi kararınızı verin!</string>
+    <string name="link8" translatable="true">Brawl Stars ta Prime Mode, karakter seçiminin diğer her şeyden daha önemli olduğu yerdir. Takımdaki bir karakter "meta" değilse, takım kaybeder. Her kartın kendi tipi kompozisyonu vardır, ancak yine de yüksek seviyeli oyunlarda neredeyse her zaman mevcut olan kavgacılar vardır. Bunları sizin için burada topladık.</string>
+    <string name="link9" translatable="true">Polly the Sniper, diğer oyun modlarında yerini bulmaya çalışıyor. Ama Prime modu sayesinde bunu çok iyi telafi ediyor. Vurmak için kafa, 1 numaralı halk düşmanı. Düşmanlarınızın saklandığı duvarları yıkmak veya saldırgan üzerinize atlarsa kaçmak için idealinizi kullanın. Zamanın geri kalanında, bir koridorda mesafenizi koruyun ve istediğiniz zaman ateş edin.Bir tavsiye: Polly ile rakibinizin hareketlerini iyi tahmin edin ve asla otomatik saldırı kullanmayın.</string>
+    <string name="link10" translatable="true">Brock, Polly dir ancak daha istikrarlı bir hasara ve rakipleri tuzağa düşüren bir süper güce sahiptir. Sarışın arkadaşına çok uzak mesafeden verdiği zarar dışında imreneceği pek bir şey yok. Yöntem tamamen Polly ile aynı. Brock u Polly ye bir alternatif olarak kullanmamaya karar verirsek, bunun nedeni her ikisinin de ekibinizde bulunmasının daha iyi olmasıdır. Brock ve Polly aynı hedefi vurursa ve her iki top da yere düşerse tebrikler, birini öldürdünüz. Bununla birlikte, Brock un yerini, son güçlendirmesinden bu yana çok güçlenen Colt alabilir.</string>
+    
+
+    <string name="link11" translatable="true">Penny nin harcı, rakipleri için gerçek bir çiledir. Onları sürekli hareketler olmaya zorlar, böylece kendilerini ifşa eder. Ve orada, Penny ve takım arkadaşları katliam yapmak için boş alana sahipler. Buna oldukça uzun menzili ve daha fazla hasar düzeltmesini de eklediğinizde Penny, modePremium daki hemen hemen tüm haritalarda hızla vazgeçilmez hale gelir.</string>
+    <string name="link12" translatable="true">Dynamike, minimum riskle çok fazla hasar verebilir. Prime modunda, ölmemek öldürmekten daha önemlidir. Yüksek seviyeli oyunlar genellikle çok düşük puanlarla biter ve boşuna değil. Dynamike nin en büyük dezavantajı, vücuttan vücuda olmasıdır. Ve Prime modunda bunlardan çok azı var, bu yüzden oldukça ihtiyatlı davranabiliyor. Dynamike veya arkadaşı Bartaba nın ortaya çıkacak gizli düşmanları yerinden oynatarak Penny nin Havan rolünü oynayabileceğini unutmayın.</string>
+    <string name="link13" translatable="true">Bo ayrıca Brawl Stars listesindeki yerini bulmakta zorlanıyor. Survivor Modunda veya Prime Modunda moda Raid of Gems olsun, yalnızca yıldız gücüyle gerçekten yaşayabilir. Olduğu söyleniyor, bir kez aldığında, son derece kullanışlı hale geliyor. Bo nun kartal vizyonu sayesinde tüm ekip büyük bir avantaja sahiptir. Bo zor ve iyi bir hasar. Son olarak, tuzakları duvarları yıkmanıza, bir koridoru kapatmanıza veya bir rakibi tuzağa düşürmenize izin verir. Bunu hafife almayın!</string>
+    <string name="link14" translatable="true">Supercell in yeni bombası Brawl Stars (Clash Royale, Clash of Clans…), oyuncunun karakteri üzerinde tam kontrole sahip olduğu Fin firmasının ilk oyunu. Genel olarak, bu oyun türünde, her zaman diğerlerinden daha güçlü olan bazı karakterler vardır. Burada durum hiç de öyle değil. Her şey haritaya ve özellikle oyun moduna bağlı, ancak en üst düzeyde hala birkaç çarpıcı kavgacı var. Fransa daki en iyi oyuncuların seçimlerine dayanan Brawl Stars ın Gem Raid modu kademe listesi:</string>
+    <string name="link15" translatable="true">Harcı, çok etkileyici bir mesafeden duvarların üzerinden ateş edebiliyor. penny reloadfast, çok fazla hasar verir… kısacası gem raid modunda, her zaman iyi bir seçenektir. Haritanın ortasını kolayca kontrol ediyor, asıl rolü orada kalmak ve ekibi için mücevherleri toplamak olacak. Henüz Süper Nadir Penny nin kilidini açmadıysanız, Jessie harika bir alternatif.</string>
+
+    
+    <string name="link16" translatable="true">Nita sert ve geniş vuruşlar yapıyor. Ayı çılgın bir baskı kuruyor ve arkasında güvende kalmak için saldırmasına veya kaçmaya çalışan bir rakibi engellemesine izin veriyor. Nita nın rolü düşmanlarına saldırmak, onları geri itmek ve hatta öldürmektir (ve hepsinden önemlisi mücevherleri toplamamaktır). Nita, efsanevi kaktüs Spike a en iyi alternatiftir.</string>
+    <string name="link17" translatable="true">Bu listeyi yapmak için birkaç üst düzey oyuncuya danıştım ve bir isim tüm dudaklardaydı: Pam. Penny gibi, onun rolü haritanın ortasını kontrol etmek ve mücevherleri toplamaktır. İyileştirme yetenekleri sayesinde Pam i öldürmek çok zordur ve yan taraftaki takım arkadaşlarına kolayca destek sağlar. Ayrıca savunmayı da biliyor. Pam in destanına çok iyi bir alternatif Poco dur.</string>
+    <string name="link18" translatable="true">Bartaba nın süperi oyundaki en iyilerden biridir. Rakibi eritmek veya tüm takımı püskürtmek için kullanılabilir. Bartaba size çok fazla kontrol sunuyor ve bunu bir duvarın arkasında korunurken yapabilir. Bir destektir, işlerin ters gitmesine engel olma rolü vardır. Örneğin Bartaba, Penny, Pam ve Jessie nin kulelerini yok etmek için en iyi seçenektir. Bartaba nın en bariz alternatifi, duvarın üzerinden saldırabilen diğer tek kavgacı olduğu için Dinamik tir. Ama bir de favori barmenimize biraz benzerliği sayesinde bu ikinci rolü mükemmel bir şekilde yerine getiren Brock var.</string>
+    <string name="link19" translatable="true">O, elde edilmesi çok zor ve yeri doldurulamayacak kadar özel olduğu için bu sıralamada beşinci. Tara, bir Gem Raid maçını yalnızca kendi başına devirebilir. Süper iyi yerleştirilmiş ve tüm ekibin sonu. En iyi saldırgan kavgacı, sadece bir mücevher baskınında. Aynı zamanda bir stant olarak da kullanılabilir ve harika örneğini takım arkadaşlarının saldırılarıyla birleştirebilir.</string>
+    <string name="link20" translatable="true">Bu kavgacılar yukarıda açıklanan rolleri oynamak için yaratıldığından, bu liste her zaman aşağı yukarı geçerli kalacaktır. Oyunun başlangıcından bu yana, her zaman uygulanabilir ve hatta üst üçte birlik olarak kabul edildiler. Ancak dikkatli olun, Brawl Stars düzenli olarak güncellenen bir oyundur. Ayrıca, bu listenin elbette öznel olduğunu, ancak Fransa daki en iyi kulüplerin tamamıyla istişare edilerek oluşturulduğunu da unutmayın. Bu aşama listesini Razzia modeGems te daha sık kazanmak için makalemiz 3 ipucumuzla birleştirin ve kupa sayınız fırlayacak!</string>
+    <string name="linkpp" translatable="true">Gizlilik politikasını görmek için web sitemize bakın https://devioapps.blogspot.com/</string>
+    <!-- TODO: can be translated -->
+</resources>

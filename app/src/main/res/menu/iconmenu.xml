@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <item
+        android:id="@+id/guides"
+        android:title="@string/guides">
+        <menu>
+
+            <item
+                android:id="@+id/a1"
+                android:icon="@drawable/unlock"
+                android:title="@string/a1" />
+            <item
+                android:id="@+id/a2"
+                android:icon="@drawable/lock"
+                android:title="@string/a2" />
+            <item
+                android:id="@+id/a3"
+                android:icon="@drawable/lock"
+                android:title="@string/a3" />
+            <item
+                android:id="@+id/a4"
+                android:icon="@drawable/lock"
+                android:title="@string/a4" />
+            <item
+                android:id="@+id/a5"
+                android:icon="@drawable/lock"
+                android:title="@string/a5" />
+            <item
+                android:id="@+id/a6"
+                android:icon="@drawable/lock"
+                android:title="@string/a6" />
+            <item
+                android:id="@+id/a7"
+                android:icon="@drawable/lock"
+                android:title="@string/a7" />
+            <item
+                android:id="@+id/a8"
+                android:icon="@drawable/lock"
+                android:title="@string/a8" />
+            <item
+                android:id="@+id/a9"
+                android:icon="@drawable/lock"
+                android:title="@string/a9" />
+            <item
+                android:id="@+id/a10"
+                android:icon="@drawable/lock"
+                android:title="@string/a10" />
+            <item
+                android:id="@+id/a11"
+                android:icon="@drawable/lock"
+                android:title="@string/a11" />
+            <item
+                android:id="@+id/a12"
+                android:icon="@drawable/lock"
+                android:title="@string/a12" />
+            <item
+                android:id="@+id/a13"
+                android:icon="@drawable/lock"
+                android:title="@string/a13" />
+            <item
+                android:id="@+id/a14"
+                android:icon="@drawable/lock"
+                android:title="@string/a14" />
+            <item
+                android:id="@+id/a15"
+                android:icon="@drawable/lock"
+                android:title="@string/a15" />
+            <item
+                android:id="@+id/a16"
+                android:icon="@drawable/lock"
+                android:title="@string/a16" />
+            <item
+                android:id="@+id/a17"
+                android:icon="@drawable/lock"
+                android:title="@string/a17" />
+            <item
+                android:id="@+id/a18"
+                android:icon="@drawable/lock"
+                android:title="@string/a18" />
+            <item
+                android:id="@+id/a19"
+                android:icon="@drawable/lock"
+                android:title="@string/a19" />
+            <item
+                android:id="@+id/a20"
+                android:icon="@drawable/lock"
+                android:title="@string/a20" />
+        </menu>
+    </item>
+
+
+    <item
+        android:id="@+id/About_App"
+        android:icon="@drawable/ic_about"
+        android:title="@string/about" />
+    <item
+        android:id="@+id/Privacy_Policy"
+        android:icon="@drawable/ic_privacy"
+        android:title="@string/privacy_policy" />
+
+
+</menu>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    app:startDestination="@id/Explore">
+
+    <fragment
+        android:id="@+id/Explore"
+        android:name="com.devio.BrawlStarstutorials.Fragments.ExploreFragment"
+        tools:layout="@layout/fragment_explore" />
+
+    <fragment
+        android:id="@+id/Quiz"
+        android:name="com.devio.BrawlStarstutorials.Fragments.LetsPlayFragment"
+        tools:layout="@layout/fragment_lets_play" />
+
+    <fragment
+        android:id="@+id/Settings"
+        android:name="com.devio.BrawlStarstutorials.Fragments.SettingsFragment"
+        tools:layout="@layout/fragment_settings" />
+    <fragment
+        android:id="@+id/PlayFragment"
+        android:name="com.devio.BrawlStarstutorials.Fragments.LevelsFragment"
+        tools:layout="@layout/fragment_levels" />
+    <fragment
+        android:id="@+id/questionsFragment"
+        android:name="com.devio.BrawlStarstutorials.Fragments.QuestionsFragment"
+        android:label="fragment_questions"
+        tools:layout="@layout/fragment_questions" />
+    <fragment
+        android:id="@+id/resultFragment"
+        android:name="com.devio.BrawlStarstutorials.Fragments.ResultFragment"
+        android:label="fragment_result"
+        tools:layout="@layout/fragment_result" />
+
+
+</navigation>

@@ -1,0 +1,20 @@
+<resources>
+    <!-- Base application theme. -->
+
+    <!-- Base application theme. -->
+    <style name="Theme.baseapp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:statusBarColor">@color/Level1</item>
+
+    </style>
+
+    <style name="DrawerTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:textSize">15sp</item> <!-- menu item text size-->
+        <item name="listPreferredItemHeightSmall">40dp</item><!-- menu item height-->
+    </style>
+
+</resources>

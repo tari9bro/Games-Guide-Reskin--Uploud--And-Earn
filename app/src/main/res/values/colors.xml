@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#F3E4BA</color>
+    <color name="highlight">#EFEEEC</color>
+    <color name="nav.item.background.default">@android:color/transparent</color>
+    <color name="light_blue_A400">#FF00B0FF</color>
+    <color name="black_overlay">#66000000</color>
+
+
+    <!--    -->
+
+    <color name="red">#F44336</color>
+    <color name="Level1">#69D5D5</color>
+
+
+</resources>

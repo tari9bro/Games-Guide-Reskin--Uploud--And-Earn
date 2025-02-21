@@ -1,0 +1,20 @@
+<resources>
+    <!-- Base application theme. -->
+    <!-- Base application theme. -->
+    <style name="Theme.baseapp" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="fontFamily">@font/action_man_bold</item>
+        <item name="textAllCaps">true</item>
+
+    </style>
+
+    <style name="DrawerTheme" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:textSize">17sp</item> <!-- menu item text size-->
+        <item name="listPreferredItemHeightSmall">40dp</item><!-- menu item height-->
+    </style>
+
+</resources>
