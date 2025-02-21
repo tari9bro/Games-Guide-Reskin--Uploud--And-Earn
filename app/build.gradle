@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    compileSdk 34
+    compileSdk 35
 // @todo after changing the package name make sure to =>> right click on app folder then click replace in files replace com.devio.BrawlStarstutorials with your new one
     defaultConfig {
         applicationId "com.devio.BrawlStarstutorials"
