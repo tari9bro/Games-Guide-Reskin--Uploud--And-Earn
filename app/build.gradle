@@ -11,7 +11,7 @@ android {
 
         versionCode 5
         versionName "last update"
-        resConfigs 'en', 'es', 'fr', 'pt', 'ru', 'tr'
+        resourceConfigurations += ['en', 'es', 'fr', 'pt', 'ru', 'tr']
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
