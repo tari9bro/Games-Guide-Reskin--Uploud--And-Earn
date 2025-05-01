@@ -1,7 +1,7 @@
 # Games Guide Reskin, Upload And Earn
 
 ![App Screenshot](screen.jpg)
-![How to Earn Money from Android Apps: A Comprehensive Guide](https://baratariq.dev/how-to-earn-money-from-android-apps-a-comprehensive-guide/#Choose-the-Right-Monetization-Model)
+[How to Earn Money from Android Apps: A Comprehensive Guide](https://baratariq.dev/how-to-earn-money-from-android-apps-a-comprehensive-guide/#Choose-the-Right-Monetization-Model)
 A mobile application that provides a modern, reskinned interface for browsing game guides, uploading your own game-related content, and earning rewards for contributions.
 
 ## 🚀 Features
