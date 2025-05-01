@@ -1,6 +1,6 @@
 # Games Guide Reskin, Upload And Earn
 
-![App Screenshot](screen.jpg)
+<img src="sceen.jpg" alt="App Screenshot" width="300"/>
 
 A mobile application that provides a modern, reskinned interface for browsing game guides, uploading your own game-related content, and earning rewards for contributions.
 
