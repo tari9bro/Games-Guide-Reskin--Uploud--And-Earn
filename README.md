@@ -1,7 +1,7 @@
 # Games Guide Reskin, Upload And Earn
 
 ![App Screenshot](screen.jpg)
-[How to Earn Money from Android Apps: A Comprehensive Guide](https://baratariq.dev/how-to-earn-money-from-android-apps-a-comprehensive-guide/#Choose-the-Right-Monetization-Model)
+[How to make money with android apps?](https://thesemicolon.dev/make-money-with-android-apps/)
 A mobile application that provides a modern, reskinned interface for browsing game guides, uploading your own game-related content, and earning rewards for contributions.
 
 ## 🚀 Features
@@ -65,7 +65,12 @@ Please ensure any new code includes appropriate tests and documentation.
 - [ ] Add push notifications for new guides
 - [ ] Integrate rating and review system
 - [ ] Expand localization support
-
+## 🎁 Links
+[How to make money with android apps?](https://thesemicolon.dev/make-money-with-android-apps/)
+[Rolling Ball Game Tutorial](https://thesemicolon.dev/rolling-ball-game/)
+[How do you make an app?](https://thesemicolon.dev/how-do-you-make-an-app/)
+[How much does it cost to make an app ?](https://thesemicolon.dev/)
+:
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
