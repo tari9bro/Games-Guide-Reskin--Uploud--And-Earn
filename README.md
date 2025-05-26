@@ -66,10 +66,10 @@ Please ensure any new code includes appropriate tests and documentation.
 - [ ] Integrate rating and review system
 - [ ] Expand localization support
 ## 🎁 Links
-[How to make money with android apps?](https://thesemicolon.dev/make-money-with-android-apps/)
-[Rolling Ball Game Tutorial](https://thesemicolon.dev/rolling-ball-game/)
-[How do you make an app?](https://thesemicolon.dev/how-do-you-make-an-app/)
-[How much does it cost to make an app ?](https://thesemicolon.dev/)
+1. [How to make money with android apps?](https://thesemicolon.dev/make-money-with-android-apps/)
+2. [Rolling Ball Game Tutorial](https://thesemicolon.dev/rolling-ball-game/)
+3. [How do you make an app?](https://thesemicolon.dev/how-do-you-make-an-app/)
+4. [How much does it cost to make an app ?](https://thesemicolon.dev/)
 :
 ## 📄 License
 
